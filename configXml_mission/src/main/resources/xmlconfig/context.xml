@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- MemberDTO bean 등록 -->
+    <bean id="member" class="com.alpaca.common.MemberDTO">
+
+        <constructor-arg index="0" value="1"/>
+        <constructor-arg name="id" value="pupu1"/>
+        <constructor-arg name="email" value="pupu@gmail.com"/>
+        <constructor-arg name="name" value="푸푸"/>
+        <constructor-arg name="phone" value="010-4567-8901"></constructor-arg>
+
+    </bean>
+</beans>
