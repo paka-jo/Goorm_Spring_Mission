@@ -2,11 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Goorm_Spring_Mission" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/annotation_mission" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aop_mission" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bean_mission" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/goorm-dependency" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/interface_dependency_mission" vcs="Git" />
   </component>
 </project>
